@@ -10,7 +10,7 @@ The targeted FPGA currently is the Nexsys 4 board as it provides a wide range of
 The outcome of this project will include having created a custom processor, lots of experience in the context of decision making within logic architecture design, possible exposure to UVM, and a fully functional and very cool calculator that runs on an FPGA with custom hardware and firmware. 
 
 ### [Link to the Project Proposal](https://clarkson0-my.sharepoint.com/:w:/g/personal/schumae_clarkson_edu/EUdUE70viBBCvmclsxku4SABC-uydwZhRiyyJ6euBa7byQ?e=wxUaMR) < Team members only
-## Potential Free to use tools for project 
+## Potential Open-Source to use tools for project 
 
 1. ⭐[**RISC-V GNU Toolchain**](https://github.com/riscv-collab/riscv-gnu-toolchain): The RISC-V GNU Toolchain provides a collection of compilers, assemblers, linkers, and other tools for building software that runs on RISC-V processors. It's an essential tool for developing and compiling code for your custom RISC-V processor.
 
